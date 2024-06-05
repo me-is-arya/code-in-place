@@ -1,0 +1,8 @@
+User: hello
+Chatbot: Hello! What can i do for you today?
+
+
+User: hi
+Chatbot: Hello! What can i do for you today?
+
+
