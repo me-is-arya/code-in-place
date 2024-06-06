@@ -9,4 +9,4 @@ Go to command centre and pip install all the following modules :
 5.tkinter as tk
 6.threading
 
-Then download all the files and run AURA.py
+Then download all the files in the project and run AURA.py
