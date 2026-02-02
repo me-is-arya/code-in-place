@@ -1,12 +1,2 @@
-Chatbot. It is specifically designed for academic related questions only. It has 2 modes of input: Text and voice. It uses NLP modules such as fuzzywuzzy to compare the question asked with the available questions in its question bank. If a similarity is found, it displays the corresponding answer from the answer bank. If a similar question is not found, it searches Wikipedia for an answer and displays the answer and the link for further reference.
-
-
-Go to command centre and pip install all the following modules : 
-1.pyttsx3
-2.speech_recognition
-3.wikipedia
-4.fuzzywuzzy 
-5.tkinter as tk
-6.threading
-
-Then download all the files in the project and run AURA.py
+this is a chatbot that has a set of quesitons and a set of answers. if the question asked by the user is not a part of this then it calls the wikipedia api.
+your job is to make this ai chatbot better with new features such as ai integration, better latency, etc.
